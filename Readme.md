@@ -1,1 +1,1 @@
-Using Gemini API 
+Using and Training on the Gemini API 
